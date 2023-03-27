@@ -1,6 +1,6 @@
 # react-card-manager
 
-deployed link of this project https://react-card-manager-kbvb.vercel.app/
+deployed link of this projecthttps://react-card-manager.vercel.app/
 
 
 
